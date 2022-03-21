@@ -29,7 +29,7 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
 - <font size=3><em>06/2021: Our paper entitled "Cross-modal photo-caricature face recognition based on dynamic multi-task learning" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
 - <font size=3><em>12/2020: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
-- <font size=3><em>05/2020: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
+#- <font size=3><em>05/2020: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 
 
 
