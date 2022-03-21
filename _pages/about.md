@@ -18,3 +18,5 @@ My research interests span in computer vision, vision & language and deep learni
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (text/vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
+## *News*:
+
