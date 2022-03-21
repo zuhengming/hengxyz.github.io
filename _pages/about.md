@@ -24,7 +24,7 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>01/2022: I will be serving to organize <strong>DAS 2022</strong>, hope to meet more researchers in La Rochelle, France!</em></font>
 - <font size=3><em>10/2021: Our paper entitled "MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis" is accepted at <strong>Jounal of Computer Optics</strong>.</em></font>
 - <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
-- <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em></font>.
+- <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
 
 
 
