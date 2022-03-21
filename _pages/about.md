@@ -18,7 +18,7 @@ My research interests span in computer vision, vision & language and deep learni
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (text/vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
-## *News*:
+## *News :* 
 - *<font size=3>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at ***Pattern Recognition Lettres***.</font>*
 - *<font size=3>01/2022: I will be serving to organize ***DAS 2022***, hope to meet more researchers in La Rochelle, France!</font>*
 - 09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at International Journal on Document Analysis and Recognition (***IJDAR***).
