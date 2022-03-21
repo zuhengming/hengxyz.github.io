@@ -19,4 +19,6 @@ My research interests span in computer vision, vision & language and deep learni
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
 ## *News*:
+- 01/2022: I will be serving to organize DAS 2022, hope to meet more document analysis researchers in La Rochelle, France!
+- 08/2019: Our paper entitled "Dynamic Multi-Task Learning for Face Recognition with Facial Expression" is accepted at Lightweight Face Recognition Challenge Workshop of ICCV 2019.
 
