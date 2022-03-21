@@ -20,7 +20,7 @@ My research interests span in computer vision, vision & language and deep learni
 
 ## *News :* 
 - <font size=3><em>03/2022: Our work using firstly Video-based Transformer for face anti-spoofing entitled ViTransPAD is </em> <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD">online!</a></font>
-- <font size=3><em>03/2022: Our work based on multimodal cross self-attention for document image classification passes to the second round of <strong>IJCAI-ECAI 2022</strong>.</em></font>
+- <font size=3><em>03/2022: Our paper working on multimodal cross self-attention for document images classification passes to the second round review of <strong>IJCAI-ECAI 2022</strong>.</em></font>
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
 - <font size=3><em>01/2022: I will be serving as Technical Committee of <strong>ICPR 2022</strong>!</em></font>
 - <font size=3><em>01/2022: I will be serving to organize <strong>DAS 2022</strong>, hope to meet more researchers in La Rochelle, France!</em></font>
@@ -29,6 +29,8 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
 - <font size=3><em>07/2021: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
 - <font size=3><em>06/2021: Our paper entitled "Cross-modal photo-caricature face recognition based on dynamic multi-task learning" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
+- <font size=3><em>06/2021: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
+
 
 
 
