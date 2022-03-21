@@ -23,7 +23,7 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
 - <font size=3><em>01/2022: I will be serving to organize <strong>DAS 2022</strong>, hope to meet more researchers in La Rochelle, France!</em></font>
 - <font size=3><em>10/2021: Our paper entitled "MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis" is accepted at <strong>Jounal of Computer Optics</strong>.</em></font>
-- <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong></em></font>.
+- <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
 - <font size=3><em>09/2021: We release our dataset for Identity Document Analysis: <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">MIDV-2020!</a></em></font>.
 
 
