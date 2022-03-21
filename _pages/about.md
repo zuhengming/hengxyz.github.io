@@ -19,7 +19,7 @@ My research interests span in computer vision, vision & language and deep learni
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
 ## *News*:
-- *<font size=4> 02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at Pattern Recognition Lettres</font>.*
+- *<font size=4>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at Pattern Recognition Lettres</font>.*
 - 01/2022: I will be serving to organize DAS 2022, hope to meet more document analysis researchers in La Rochelle, France!
 - 09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at International Journal on Document Analysis and Recognition (IJDAR).
 - 08/2019: Our paper entitled "Dynamic Multi-Task Learning for Face Recognition with Facial Expression" is accepted at Lightweight Face Recognition Challenge Workshop of ICCV 2019.
