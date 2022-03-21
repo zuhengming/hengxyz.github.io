@@ -20,7 +20,7 @@ My research interests span in computer vision, vision & language and deep learni
 
 ## *News :* 
 - <font size=3><em>03/2022: Our work using firstly Video-based Transformer for face anti-spoofing entitled ViTransPAD is </em> <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD">online!</a></font>
-- <font size=3><em>03/2022: Our work based on multimodal cross self-attention for document image classification passes to the second round of <strong>IJCAI-ECAI 2022</strong> </em>.</font>
+- <font size=3><em>03/2022: Our work based on multimodal cross self-attention for document image classification passes to the second round of <strong>IJCAI-ECAI 2022</strong>.</em></font>
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
 - <font size=3><em>01/2022: I will be serving as Technical Committee of <strong>ICPR 2022</strong>!</em></font>
 - <font size=3><em>01/2022: I will be serving to organize <strong>DAS 2022</strong>, hope to meet more researchers in La Rochelle, France!</em></font>
