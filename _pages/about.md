@@ -21,7 +21,7 @@ My research interests span in computer vision, vision & language and deep learni
 ## *News :* 
 - <font size=3><em>03/2022: Our work using firstly Video-based Transformer for face antispoofing entitled "ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection" is [online](https://arxiv.org/pdf/2203.01562.pdf)!</em></font>
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
-- *<font size=3>01/2022: I will be serving to organize* ***DAS 2022***, *hope to meet more researchers in La Rochelle, France!</font>*
-- 09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at International Journal on Document Analysis and Recognition (**IJDAR**).
+- <font size=3><em>01/2022: I will be serving to organize <strong>DAS 2022</strong>, hope to meet more researchers in La Rochelle, France!</em></font>
+- <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>)</em></font>.
 - 08/2019: Our paper entitled "Dynamic Multi-Task Learning for Face Recognition with Facial Expression" is accepted at Lightweight Face Recognition Challenge Workshop of ICCV 2019.
 
