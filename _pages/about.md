@@ -14,7 +14,7 @@ I’m Zuheng Ming, an Enseignant-Cheurcheur Contactuel in the Computer Science d
 
 ## Research Interests:
 My research interests span in computer vision, vision & language and deep learning as well as its applications.  
-- Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications;
+- Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (text/vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
