@@ -1,5 +1,5 @@
 ---
-title: "<font color=blue><u>SHyNE (ESR 2022)</u></font>"
+title: "<font color=blue>SHyNE (ESR 2022)</font> <u>[more details]</u>"
 collection: expressions
 excerpt: "This project aims to collabrate three laboratories spans of material science and computer science to develop new material being more resistant to corrosion of Hydrogen.
 2022-2025: Interdisciplinary applications of deep learning and material science (*under project approval*).
