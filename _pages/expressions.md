@@ -5,6 +5,7 @@ permalink: /expressions/
 author_profile: true
 ---
 
+{% include base_path %}
 
 ###2022-2025: Project  SHyNE (ESR 2022)###: Interdisciplinary applications of deep learning and material science (*under project approval*).
 
