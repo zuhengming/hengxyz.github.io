@@ -1,5 +1,5 @@
 ---
-title: "<font color=blue><u>IDECYS+ : MOBile IDEntity for the Masses (FUI 25)</u></font>"
+title: "<font color=blue><u>IDECYS+ : la détection de l'usurpation d'identité (FUI 25)</u></font>"
 collection: expressions
 excerpt: "The IDECYS+ project aims to develop a new flexible and secure digital solution integrating into the facial identification system for detecting facial attacks presented by printed photo, video or 3D masks."
 redirect_to: 
