@@ -21,7 +21,7 @@ redirect_to:
 
 ![avatar](/images/vittranspad.png)
 
-- Multimodal Face anti-spoofing Based on Pseudo 3D facial depth image:
+- [Multimodal Face anti-spoofing Based on Pseudo 3D facial depth image:]()
 
 *Key words: Multimodal learning, 3D depth image generalization, CNNs, face presentation attack detection*
 
