@@ -12,7 +12,7 @@ redirect_to:
 
 **Reasearch methods**: The challenges of face anti-spoofing is to distinguish the real presentation from the presentation attacks with fine difference in terms of image texture. The methods based on **long/short-term attention for fine-grained classification, multimodal learning,  multitask learning** are proposed for FAS in this project. 
 
-- [VitTransPAD: Video Transformer using Convolution and Self-attention for Face Presentation Attack Detection:](https://arxiv.org/pdf/2203.01562.pdf)
+- [VitTransPAD: Video Transformer using Convolution and Self-attention for Face Presentation Attack Detection (ICIP2022_submission):](https://arxiv.org/pdf/2203.01562.pdf)
 
 *Key words: Video-based transformer, multi-scale multi-head self-attention, face presentation attack detection*
 
@@ -30,7 +30,7 @@ redirect_to:
 
 ![avatar](/images/multimodalFAS-image.png)
 
-- [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection:](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
+- [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection (ICPR2018):](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
 
 *Key words: Multi-task learning, interactive face authentification, face recognition, facial expression recognition, CNNs*
 
