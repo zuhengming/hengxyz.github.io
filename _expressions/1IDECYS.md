@@ -10,7 +10,7 @@ redirect_to:
 - Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [AriadNext](https://www.ariadnext.com/)
 - with [Burie Jean-Christophe](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), [Muriel Visani](https://pageperso.univ-lr.fr/mvisani/), [Petra Gomez-Krämer](https://pageperso.univ-lr.fr/petra.gomez/), [Muhammad Muzzamil LUQMAN](https://scholar.google.com/citations?user=ACfqR3UAAAAJ&hl=en), [Marchand Sylvain](http://sylvain-marchand.info/), [Ahmad Montaser Awal](https://scholar.google.fr/citations?user=lADqsksAAAAJ&hl=fr)
 
-**Reasearch methods**: The challenges of face anti-spoofing is to distinguish the real presentation from the presentation attacks with fine difference in terms of image texture. The methods based on fine-grained classification, multimodal learning and long-term attention have applied for face anti-spoofing. 
+**Reasearch methods**: The challenges of face anti-spoofing is to distinguish the real presentation from the presentation attacks with fine difference in terms of image texture. The methods based on fine-grained classification, multimodal learning, long-term attention are proposed in this project. 
 
 - [VitTransPAD: Video Transformer using Convolution and Self-attention for Face Presentation Attack Detection:](https://arxiv.org/pdf/2203.01562.pdf)
 
