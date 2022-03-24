@@ -25,7 +25,7 @@ redirect_to:
 
 *Key words: Multimodal learning, 3D depth image generalization, CNNs, face presentation attack detection*
 
-<font size=3>Although the difference between the real face presentations and the attacks presented by the photo, video or high-fidelity 3D masks are difficult to detect, the real faces and the attacks presented in such as 3D depth images, infrared images or thermal images are very different as shown in [WMCA](https://www.idiap.ch/en/dataset/wmca). Using multimodal learning for face anti-spoofing is a effective way. However, acquiring the images of special modality needs special sensors which is not practical for the current consuming devices. Thus, we propose a method which allows to generate the pseudo multimodal images to detetect by multimodal learning  </font>
+<font size=3>Since the real faces and the attacks presented in such as 3D depth images, infrared images or thermal images are very different as shown in [WMCA](https://www.idiap.ch/en/dataset/wmca), using multimodal learning for face anti-spoofing is a effective way. However, acquiring the images of special modality needs special sensors which is not practical for the current consuming devices. Thus, we propose a method which allows to generate the pseudo multimodal images to detetect by multimodal learning  </font>
 
 
 ![avatar](/images/vittranspad.png)
