@@ -10,7 +10,7 @@ redirect_to:
 - Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [AriadNext](https://www.ariadnext.com/)
 - with [Burie Jean-Christophe](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), [Muriel Visani](https://pageperso.univ-lr.fr/mvisani/), [Petra Gomez-Krämer](https://pageperso.univ-lr.fr/petra.gomez/), [Muhammad Muzzamil LUQMAN](https://scholar.google.com/citations?user=ACfqR3UAAAAJ&hl=en), [Marchand Sylvain](http://sylvain-marchand.info/), [Ahmad Montaser Awal](https://scholar.google.fr/citations?user=lADqsksAAAAJ&hl=fr)
 
-*Chanllenge of face-antispoofing*: 
+*Reasearch methods*: 
 
 - Propose to use Transformer; 
 -	Être simple d’utilisation pour l’utilisateur final ; 
