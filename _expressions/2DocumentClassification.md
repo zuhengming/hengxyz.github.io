@@ -21,14 +21,14 @@ redirect_to:
 
 ![avatar](/images/Cross-modalIJCAI.jpg)
 
-- [Multimodal Face anti-spoofing Based on the Generated Pseudo Face Images:]()
+- [EAML: ensemble self-attention-based mutual learning network for document image classification (IJDAR):](https://link.springer.com/content/pdf/10.1007/s10032-021-00378-0.pdf)
 
-*Key words: Multimodal learning, 3D depth image generalization, CNNs, face presentation attack detection*
+*Key words: Text document image classification, Self-attention-based fusion, Mutual learning, Multi-modal fusion Ensemble learning*
 
-<font size=3>Since the real faces and the attacks presented in such as 3D depth images, infrared images or thermal images are very different as shown in <a href="https://www.idiap.ch/en/dataset/wmca" title="WMCA">WMCA</a>, using multimodal learning for face anti-spoofing is a effective way. However, acquiring the images of special modality needs special sensors which is not practical for the current consuming devices. Thus, we propose a method based on CNNs-based encoder-decoder architecture which allows to generate the pseudo multimodal images (e.g., 3D depth image) to detetect by multimodal learning  </font>
+<font size=3>The main challenge of document image classification is the low inter-class discrimination and high intra-class structural variations of document images. To mitigate this issue, we propose a mutual learning module that serves as a block in our ensemble trainable network which allows the network to simultaneously learn the discriminant features of image and text branches in a mutual learning manner. Specifically, we design a novel mutual learning model, namely positive mutual learning, which enables the current branch to learn the positive knowledge from the other branch instead of the negative knowledge that will weaken the learning capacity for the current branch. To the best of our knowledge, this is the first time to leverage (positive) mutual learning approach for document image classification. The experimental results show the effectiveness of our approach which improves the classification performance of document images for the independent branches.</font>
 
 
-![avatar](/images/MultimodalFAS.png)
+![avatar](/images/EMAIL.jpg)
 
 - [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection (ICPR2018):](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
 
