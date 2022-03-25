@@ -5,7 +5,7 @@ excerpt: "Classification of document images based on superivsed/self-supervised 
 redirect_to: 
 ---
 
-2020-2022 : This research project aims to explore the multimodal text-visual feature representations to detect the types of documents by classifying the input document images. The chanllenge is to learn a multimodal feature representations from the heterogeneous feature spaces of text and visual images. Different multimodal learning methods are applied in this project such as **Vanille Multimodal feature fusion, Mutual learning based on Knowledge Distillation, Cross self-attention between text and visual modality**
+2020-2022 : This research project aims to explore the multimodal text-visual feature representations to detect the types of documents by classifying the input document images. The chanllenge is to learn a common representation space from the heterogeneous features extracted from the language and visual model respectively. Different multimodal learning methods such as **Vanille Multimodal feature fusion, Mutual learning based on Knowledge Distillation, Cross self-attention between text and visual modality** are applied in this research. 
 
 - Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [CVC](http://www.cvc.uab.es/)
 - with [Souhail Bakkali](https://scholar.google.fr/citations?user=gO_Q48IAAAAJ&hl=en&oi=sra), [Mickaël Coustaty](https://scholar.google.com/citations?user=Tc8FrWwAAAAJ&hl=en), [Marçal Rusiñol](https://scholar.google.com/citations?user=Uvxu49IAAAAJ&hl=en), [Oriol Ramos Terrades](https://scholar.google.com/citations?user=4Dvggx4AAAAJ&hl=en)
@@ -14,9 +14,9 @@ redirect_to:
 
 - [Multimodal learning based on cross self-attention for document classification (IJCAI-ECAI2022_submission):]()
 
-*Key words: Multimodal learning, text-visual cross self-attention, Self-supervised contrastive learning, BERT, CNNs, document image classification*
+*Key words: cross-modal representation, text-visual cross self-attention, Self-supervised contrastive learning, BERT, CNNs, document image classification*
 
-<font size=3>Many works based on Convolution Neural Networks (CNNs) for face PAD formulate the problem as an image-level binary classification task without considering the context. Alternatively, Vision Transformers (ViT) using self-attention to attend the context of an image become the mainstreams in face PAD. Inspired by ViT, we design a Video-based Transformer for face PAD with short/long-range spatio-temporal attention which can not only focus on local details but also the context of a video. The proposed Multi-scale Multi-Head Self-Attention enables the model to learn a fine-grained representation to perform pixel level discrimination required by face PAD. We also introduce convolutions to our ViTransPAD to integrate desirable proprieties of CNNs which can gain a good computation-accuracy balance. To the best of our knowledge, this is the first approach using video-based transformer for face PAD which can serve as a new backbone for further study.</font>
+<font size=3>In this work we approach the document classification problem by learning cross-modal representations through language and vision cues, considering intra- and inter-modality relationships. Instead of merging features from different modalities into a common representations space, the proposed method exploits high-level interactions and learns semantic information from effective attention flows within and across modalities. The proposed learning objective enforces the compactness of intra-class representations while separating inter-class features by contrasting positive and negative sample pairs within and across each modality. Extensive experiments on public document classification datasets demonstrate the effectiveness and the generalization capacity of our method on low-scale and large-scale datasets, by including cross-modal pre-training in a unified network..</font>
 
 
 ![avatar](/images/vittranspad.png)
