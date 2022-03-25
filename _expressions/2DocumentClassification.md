@@ -14,7 +14,7 @@ redirect_to:
 
 - [Multimodal learning based on cross self-attention for document classification (IJCAI-ECAI2022_submission):]()
 
-*Key words: Video-based transformer, multi-scale multi-head self-attention, face presentation attack detection*
+*Key words: Multimodal learning, text-visual cross self-attention, Self-supervised contrastive learning, BERT, CNNs, document image classification*
 
 <font size=3>Many works based on Convolution Neural Networks (CNNs) for face PAD formulate the problem as an image-level binary classification task without considering the context. Alternatively, Vision Transformers (ViT) using self-attention to attend the context of an image become the mainstreams in face PAD. Inspired by ViT, we design a Video-based Transformer for face PAD with short/long-range spatio-temporal attention which can not only focus on local details but also the context of a video. The proposed Multi-scale Multi-Head Self-Attention enables the model to learn a fine-grained representation to perform pixel level discrimination required by face PAD. We also introduce convolutions to our ViTransPAD to integrate desirable proprieties of CNNs which can gain a good computation-accuracy balance. To the best of our knowledge, this is the first approach using video-based transformer for face PAD which can serve as a new backbone for further study.</font>
 
