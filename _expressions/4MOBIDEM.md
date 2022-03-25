@@ -46,5 +46,10 @@ redirect_to:
     <source src="/images/Demo_facialexpressioinRecog.mp4" type="video/mp4">
 </video>
 
+- **Face / Hand / Head Detection by applying YOLO3**: (Python, Pytorch, OpenCV, GPUs/TitanX)
+<video id="video" width="320" height="240" controls="" preload="none">
+    <source src="/images/video_hand_small.mp4" type="video/mp4">
+</video>
+
 
 
