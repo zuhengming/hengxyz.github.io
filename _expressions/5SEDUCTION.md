@@ -12,7 +12,7 @@ redirect_to:
 
 **Reasearch methods**: 
 
-- [Facial Action Units Intensity Estimation by the Fusion of Features with Multi-kernel Support Vector Machine (FG2015):](https://hal.archives-ouvertes.fr/hal-01126775/file/Using%20the%20Fusion%20of%20differernt%20features%20for%20Facial%20Action%20Unit%20Intensity%20Predictioin%20by%20the%20fusion%20of%20by%20Multikernel%20SVM_cameraready.pdf)
+- [Facial Action Units Intensity Estimation by the Fusion of Features with Multi-kernel Support Vector Machine (FG2015 workshop):](https://hal.archives-ouvertes.fr/hal-01126775/file/Using%20the%20Fusion%20of%20differernt%20features%20for%20Facial%20Action%20Unit%20Intensity%20Predictioin%20by%20the%20fusion%20of%20by%20Multikernel%20SVM_cameraready.pdf)
 
 *Key words: facial experssion, Action units, multi-kenerl SVMs*
 
