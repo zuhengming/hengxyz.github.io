@@ -49,7 +49,7 @@ In this paper, we present a two-branches based cross-modal deep network that ena
 
 <font size=3>In this work, we adhere to explore a Multi-Tasking learning (MTL) based network to perform document attribute classification such as the font type, font size, font emphasis  and  scanning  resolution classification of a document image. To accomplish these tasks, we operate on either segmented word level or on uniformed size patches randomly cropped out of the document. Furthermore, a hybrid convolution neural network (CNN) architecture  "MTL+MI", which is based on the combination of MTL and Multi-Instance (MI) of patch and word is used to accomplish joint learning for the classification of the same document attributes.</font>
 
-![avatar](/images/cross_modal_CVPRW2020.PNG)
+![avatar](/images/DocAttributesMTL.jpg)
 
 
 
