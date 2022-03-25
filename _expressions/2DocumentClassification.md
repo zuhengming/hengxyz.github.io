@@ -38,7 +38,7 @@ redirect_to:
 
 
 
-<img src=/images/cross_modal_CVPRW2020.PNG width=50% /> <img src=/images/icip2020_b_c.jpg width=50% />
+<img src=/images/cross_modal_CVPRW2020.PNG width=40% /> <img src=/images/icip2020_b_c.jpg width=50% />
 
 
 
