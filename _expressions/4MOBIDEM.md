@@ -37,16 +37,12 @@ redirect_to:
 <font size=3>Face recognition of realistic visual images (e.g., photos) has been well studied and made significant progress in the recent decade. However, face recognition between realistic visual images/photos and caricatures is still a challenging problem. Unlike the photos, the different artistic styles of caricatures introduce extreme non-rigid distortions of caricatures. The great representational gap between the different modalities of photos and caricatures is a big challenge for photo-caricature face recognition. In this work, we propose to conduct cross-modal photo-caricature face recognition via multi-task learning, which can learn the features of different modalities with different tasks. The experimental results demonstrate the effectiveness of the proposed method for cross-modal photo-caricature face recognition.</font>
 
 
-![avatar](/images/Fig0_Fig1.png)
+![avatar](/images/Demo_facialexpressioinRecog.mp4)
    
 **<font size=5>Application Demos</font>**:
 
 
 - **Multi-task learning for face recognition and facial expression recognition**: (Python, Tensorflow, OpenCV, GPUs/TitanX for training, CPU for Infering/14fps)
-
-<font size=3>Benefiting from the joint learning of the multiple tasks in the deep multi-task networks, many applications have shown the promising performance comparing to single-task learning. However, the performance of multi-task learning framework is highly dependant on the relative weights of the tasks. How to assign the weight of each task is a critical issue in the multi-task learning. Instead of tuning the weights manually which is exhausted and time-consuming, in this work we propose an approach which can dynamically adapt the weights of the tasks according to the difficulty for training the task. We demonstrate our approach for face recognition with facial expression and facial expression recognition from a single input image based on a deep multi-task learning Conventional Neural Networks (CNNs). Both the theoretical analysis and the experimental results demonstrate  this multi-task learning with dynamic weights boosts of the performance on the different tasks comparing to the state-of-art methods with single-task learning. </font>
-
-
 ![avatar](/images/DynamicMTL.jpg)
 
 
