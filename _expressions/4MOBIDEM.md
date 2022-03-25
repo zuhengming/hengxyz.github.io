@@ -12,7 +12,7 @@ redirect_to:
 
 **Reasearch methods**: The challenge of face recognition is to learn a representation being robust to the variation of face pose, gesture, occulussion and illumination in the wild scenarios. It is also required to recognize the heterogeneous faces presented in the different modalities (e.g., natural faces v.s. caricatures). **Metric learning,  Multitask learning and Multimodal learning** are used to develop the **face recognition using large-scale datasets** and the related problems such as **facial expression recognition** and **face detection**. 
 
-- [Simple Triplet Loss Based on Intra/Inter-class Metric Learning for Face Verification (ICCVW2017):](https://www.lrde.epita.fr/dload/papers/ming.17.iccv-amfg.pdf)
+- [Simple Triplet Loss Based on Intra/Inter-class Metric Learning for Face Verification:]()[(ICCVW2017)](https://www.lrde.epita.fr/dload/papers/ming.17.iccv-amfg.pdf)[code](https://github.com/hengxyz/facenet_class_wise_triplet_loss_pub)
 
 *Key words: Metric learning, class-wise triplet loss, CNNs, face recognition*
 
@@ -21,7 +21,7 @@ redirect_to:
 
 ![avatar](/images/comparison.png)
 
-- [Multimodal Face anti-spoofing Based on the Generated Pseudo Face Images:]()
+- [Dynamic Multi-Task Learning for Face Recognition with Facial Expression :]()[(ICCVW2019)](https://arxiv.org/pdf/1911.03281.pdf)[code](https://github.com/hengxyz/Dynamic_multi-task-learning)
 
 *Key words: Multimodal learning, 3D depth image generalization, CNNs, face presentation attack detection*
 
