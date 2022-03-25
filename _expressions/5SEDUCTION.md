@@ -1,7 +1,7 @@
 ---
 title: "<font color=blue><u>SEDUCTION: Social affects Discrimination Using Combined acoustic and visual information </u></font>"
 collection: expressions
-excerpt: "Realization of an electronic signature platform by telephone with face recognition based on deep learning at a high level of validity."
+excerpt: "Using SVM-based machine learning method to ananlyse the variation of facial expression in the multicultural environment (Japanese/French)."
 redirect_to: 
 ---
 
