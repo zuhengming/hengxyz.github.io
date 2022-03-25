@@ -12,7 +12,7 @@ redirect_to:
 
 **Reasearch methods**: 
 
-- [VitTransPAD: Video Transformer using Convolution and Self-attention for Face Presentation Attack Detection (ICIP2022_submission):](https://arxiv.org/pdf/2203.01562.pdf)
+- [Multimodal learning based on cross self-attention for document classification (IJCAI-ECAI2022_under reviewing):]()
 
 *Key words: Video-based transformer, multi-scale multi-head self-attention, face presentation attack detection*
 
