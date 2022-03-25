@@ -40,6 +40,7 @@ redirect_to:
 ![avatar](/images/cross_modal_CVPRW2020.PNG#pic_left)
 ![avatar](/images/icip2020_b.jpg#pic_center)
 ![avatar](/images/icip2020_c.jpg#pic_right)
+<img src=/images/cross_modal_CVPRW2020.PNG width=30% />
    
 
 
