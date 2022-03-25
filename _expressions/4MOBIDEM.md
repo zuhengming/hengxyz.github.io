@@ -12,15 +12,15 @@ redirect_to:
 
 **Reasearch methods**: The challenge of face recognition is to learn a representation being robust to the variation of face pose, gesture, occulussion and illumination in the wild scenarios. It is also required to recognize the heterogeneous faces presented in the different modalities (e.g., natural faces v.s. caricatures). **Metric learning,  Multitask learning and Multimodal learning** are used to develop the **face recognition using large-scale datasets** and the related problems such as **facial expression recognition** and **face detection**. 
 
-- [Simple Triplet Loss Based on Intra/Inter-class Metric Learning
-for Face Verification (ICCVW2017):](https://www.lrde.epita.fr/dload/papers/ming.17.iccv-amfg.pdf)
+- [Simple Triplet Loss Based on Intra/Inter-class Metric Learning for Face Verification (ICCVW2017):](https://www.lrde.epita.fr/dload/papers/ming.17.iccv-amfg.pdf)
 
 *Key words: Metric learning, class-wise triplet loss, CNNs, face recognition*
 
-<font size=3>In this paper, we propose a simple class-wise triplet loss based on the intra/inter-class distance metric learning which can largely reduce the number of the possible triplets to be learned. However the simplification of the classic triplet loss function has not degraded the performance of the proposed approach. The experimental evaluations show that the model with the proposed class-wise simple triplet loss can reach the state-of-the-art performance. And the visualization of the distribution of the learned features based on the MNIST dataset has also shown the effectiveness of the proposed method to better separate the classes comparing to the other state-of-the-art loss function.</font>
+<font size=3>In this work, we propose a simple class-wise triplet loss based on the intra/inter-class distance metric learning which can largely reduce the number of the possible triplets to be learned. However the simplification of the classic triplet loss function has not degraded the performance of the proposed approach. The experimental evaluations show that the model with the proposed class-wise simple triplet loss can reach the state-of-the-art performance. And the visualization of the distribution of the learned features based on the MNIST dataset has also shown the effectiveness of the proposed method to better separate the classes comparing to the other state-of-the-art loss function.</font>
 
 
-![avatar](/images/vittranspad.png)
+![avatar](/images/comparison.png)
+![avatar](/images/computation_reduce.png)
 
 - [Multimodal Face anti-spoofing Based on the Generated Pseudo Face Images:]()
 
