@@ -30,7 +30,7 @@ redirect_to:
 
 ![avatar](/images/EMAIL.jpg)
 
-- [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection (ICPR2018):](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
+- [Cross-Modal Deep Networks For Document Image Classification]()[ICIP2020](https://ieeexplore.ieee.org/document/9191268), CVPRW2020(https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf):
 
 *Key words: Multi-task learning, interactive face authentification, face recognition, facial expression recognition, CNNs*
 
