@@ -19,7 +19,7 @@ redirect_to:
 <font size=3>In this work we approach the document classification problem by learning cross-modal representations through language and vision cues, considering intra- and inter-modality relationships. Instead of merging features from different modalities into a common representations space, the proposed method exploits high-level interactions and learns semantic information from effective attention flows within and across modalities. The proposed learning objective enforces the compactness of intra-class representations while separating inter-class features by contrasting positive and negative sample pairs within and across each modality. Extensive experiments on public document classification datasets demonstrate the effectiveness and the generalization capacity of our method on low-scale and large-scale datasets, by including cross-modal pre-training in a unified network..</font>
 
 
-![avatar](/images/vittranspad.png)
+![avatar](/images/Cross-modalIJCAI.jpg)
 
 - [Multimodal Face anti-spoofing Based on the Generated Pseudo Face Images:]()
 
