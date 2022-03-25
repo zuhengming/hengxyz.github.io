@@ -1,14 +1,14 @@
 ---
 title: "<font color=blue><u>Classification of document images </u></font>"
 collection: expressions
-excerpt: "Classification of document images based on text-visual multimodal learning."
+excerpt: "Classification of document images based on superivsed/self-supervised text-visual multimodal learning."
 redirect_to: 
 ---
 
-2020-2022 : The IDECYS+ project aims to develop a new flexible and secure digital identity solution for facial anti-spoofing for European legal entities, and primarily for the 3 million French TPE/PME. This project proposed a solution based on deep learning to distinguish facial attacks by printed photo, video or 3D mask by integrating into the facial identification system:
+2020-2022 : This research project aims to explore the multimodal text-visual feature representations to detect the types of documents by classifying the input document images. The chanllenge is to learn the common feature representations from the heterogeneous feature spaces of text and visual images. Different multimodal learning methods are applied in this project such as **Vanille Multimodal feature fusion, Mutual learning based on Knowledge Distillation, Cross self-attention between text and vidual modality**
 
-- Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [AriadNext](https://www.ariadnext.com/)
-- with [Burie Jean-Christophe](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), [Muriel Visani](https://pageperso.univ-lr.fr/mvisani/), [Petra Gomez-Krämer](https://pageperso.univ-lr.fr/petra.gomez/), [Muhammad Muzzamil LUQMAN](https://scholar.google.com/citations?user=ACfqR3UAAAAJ&hl=en), [Marchand Sylvain](http://sylvain-marchand.info/), [Ahmad Montaser Awal](https://scholar.google.fr/citations?user=lADqsksAAAAJ&hl=fr)
+- Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [CVC](http://www.cvc.uab.es/)
+- with [Souhail](https://scholar.google.fr/citations?user=gO_Q48IAAAAJ&hl=en&oi=sra), [Mickaël](https://scholar.google.com/citations?user=Tc8FrWwAAAAJ&hl=en), [Marçal Rusiñol](https://scholar.google.com/citations?user=Uvxu49IAAAAJ&hl=en), [Oriol Ramos Terrades](https://scholar.google.com/citations?user=4Dvggx4AAAAJ&hl=en)
 
 **Reasearch methods**: The challenges of face anti-spoofing is to distinguish the real presentation from the presentation attacks with fine difference in terms of image texture. The methods based on **long/short-term attention for fine-grained classification, multimodal learning,  multitask learning** are proposed for FAS in this project. 
 
