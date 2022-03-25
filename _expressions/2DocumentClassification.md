@@ -12,7 +12,7 @@ redirect_to:
 
 **Reasearch methods**: 
 
-- [Multimodal learning based on cross self-attention for document classification (IJCAI-ECAI2022_under reviewing):]()
+- [Multimodal learning based on cross self-attention for document classification (IJCAI-ECAI2022_under second round reviewing):]()
 
 *Key words: Video-based transformer, multi-scale multi-head self-attention, face presentation attack detection*
 
