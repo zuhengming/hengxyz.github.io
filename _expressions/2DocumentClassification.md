@@ -37,9 +37,9 @@ redirect_to:
 <font size=3>Existing face verification architectures seldom integrate any liveness detection or keep such stage isolated from face verification as if it was irrelevant. This may potentially result in the system being exposed to spoof attacks between the two stages. This work introduces FaceLiveNet, a holistic endto-end deep networks which can perform face verification and liveness detection simultaneously. An interactive scheme for facial expression recognition is proposed to perform liveness detection, providing better generalization capacity and higher security level. The proposed framework is low-cost as it relies on commodity hardware instead of costly sensors, and lightweight with much fewer parameters comparing to the other popular deep networks such as VGG16 and FaceNet. Experimental results on the benchmarks LFW, YTF, CK+, OuluCASIA, SFEW, FER2013 demonstrate that the proposed FaceLiveNet can achieve state-of art performance or better for both face verification and facial expression recognition. We also introduce a new protocol to evaluate the global performance for face authentication with the fusion of face verification and interactive facial expression-based liveness detection.</font>
 
 
-![avatar](/images/cross_modal_CVPRW2020.PNG)
-![avatar](/images/icip2020_b.jpg)
-![avatar](/images/icip2020_c.jpg)
+![avatar](/images/cross_modal_CVPRW2020.PNG#pic_left)
+![avatar](/images/icip2020_b.jpg#pic_center)
+![avatar](/images/icip2020_c.jpg#pic_right)
    
 
 
