@@ -16,7 +16,7 @@ redirect_to:
 
 *Key words: Metric learning, class-wise triplet loss, CNNs, face recognition*
 
-<font size=3>In this work, we propose a simple class-wise triplet loss based on the intra/inter-class distance metric learning which can largely reduce the number of the possible triplets to be learned. However the simplification of the classic triplet loss function has not degraded the performance of the proposed approach. The experimental evaluations show that the model with the proposed class-wise simple triplet loss can reach the state-of-the-art performance. And the visualization of the distribution of the learned features based on the MNIST dataset has also shown the effectiveness of the proposed method to better separate the classes comparing to the other state-of-the-art loss function.</font>
+<font size=3>In this work, we propose a simple class-wise triplet loss based on the intra/inter-class distance metric learning which can largely reduce the number of the possible triplets to be learned. However the simplification of the classic triplet loss function has not degraded the performance of the proposed approach. The experimental evaluations and the visualization of the distribution of the learned features has also shown the effectiveness of the proposed method comparing to the other state-of-the-art loss function such as cross-entropy loss and centerloss.</font>
 
 
 ![avatar](/images/comparison.png)
