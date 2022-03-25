@@ -39,7 +39,8 @@ In this paper, we present a two-branches based cross-modal deep network that ena
 
 
 <figure class="half">
-<img src=/images/cross_modal_CVPRW2020.PNG width=50% /> <img src=/images/icip2020_b_c.jpg width=45% />
+<img src=/images/cross_modal_CVPRW2020.PNG/> 
+<img src=/images/icip2020_b_c.jpg/>
 </figure>
 
 
