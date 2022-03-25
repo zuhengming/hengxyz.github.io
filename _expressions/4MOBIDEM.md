@@ -20,7 +20,6 @@ redirect_to:
 
 
 ![avatar](/images/comparison.png)
-![avatar](/images/computation_reduce.png)
 
 - [Multimodal Face anti-spoofing Based on the Generated Pseudo Face Images:]()
 
