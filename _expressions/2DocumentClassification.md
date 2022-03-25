@@ -38,9 +38,9 @@ redirect_to:
 In this paper, we present a two-branches based cross-modal deep network that enables to capture both the textual content and the visual information. We conduct an exhaustive investigation of nowadays widely used neural networks such as ResNet, MobileNet, NASNet-Large, Bert and so on as backbone to extract image and text features respectively. Different joint feature learning approaches based on vanille concatenation, equal concatenation and superposition have been introduced to learn the common multimodal features from the language and visual cues.</font>
 
 
-<figure class="half">
+<p float="left">
 <img src=/images/cross_modal_CVPRW2020.PNG> 
 <img src=/images/icip2020_b_c.jpg>
-</figure>
+</p>
 
 
