@@ -1,5 +1,5 @@
 ---
-title: "<font color=blue><u>MOBIDEM: MOBile IDEntity for the Masses </u></font>"
+title: "<font color=blue><u>MOBIDEM: MOBile IDEntity for the Masses (FUI 21) </u></font>"
 collection: expressions
 excerpt: "Realization of an electronic signature platform by telephone with face recognition based on deep learning at a high level of validity."
 redirect_to: 
