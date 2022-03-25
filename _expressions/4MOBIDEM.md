@@ -21,14 +21,14 @@ redirect_to:
 
 ![avatar](/images/comparison.png)
 
-- [Dynamic Multi-Task Learning for Face Recognition with Facial Expression :]()[(ICCVW2019)](https://arxiv.org/pdf/1911.03281.pdf)[code](https://github.com/hengxyz/Dynamic_multi-task-learning)
+- [Dynamic Multi-Task Learning for Face Recognition with Facial Expression :]()[[ICCVW2019]](https://arxiv.org/pdf/1911.03281.pdf)[[code]](https://github.com/hengxyz/Dynamic_multi-task-learning)
 
-*Key words: Multimodal learning, 3D depth image generalization, CNNs, face presentation attack detection*
+*Key words: Multi-task learning, Dynamic task weights, CNNs, face recognition, facial expression recognition*
 
-<font size=3>Since the real faces and the attacks presented in such as 3D depth images, infrared images or thermal images are very different as shown in <a href="https://www.idiap.ch/en/dataset/wmca" title="WMCA">WMCA</a>, using multimodal learning for face anti-spoofing is a effective way. However, acquiring the images of special modality needs special sensors which is not practical for the current consuming devices. Thus, we propose a method based on CNNs-based encoder-decoder architecture which allows to generate the pseudo multimodal images (e.g., 3D depth image) to detetect by multimodal learning  </font>
+<font size=3>Benefiting from the joint learning of the multiple tasks in the deep multi-task networks, many applications have shown the promising performance comparing to single-task learning. However, the performance of multi-task learning framework is highly dependant on the relative weights of the tasks. How to assign the weight of each task is a critical issue in the multi-task learning. Instead of tuning the weights manually which is exhausted and time-consuming, in this work we propose an approach which can dynamically adapt the weights of the tasks according to the difficulty for training the task. We demonstrate our approach for face recognition with facial expression and facial expression recognition from a single input image based on a deep multi-task learning Conventional Neural Networks (CNNs). Both the theoretical analysis and the experimental results demonstrate  this multi-task learning with dynamic weights boosts of the performance on the different tasks comparing to the state-of-art methods with single-task learning. </font>
 
 
-![avatar](/images/MultimodalFAS.png)
+![avatar](/images/DynamicMTL.jpg)
 
 - [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection (ICPR2018):](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
 
