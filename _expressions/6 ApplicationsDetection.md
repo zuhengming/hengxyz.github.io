@@ -7,7 +7,7 @@ redirect_to:
    
 - **Hand Detection by applying YOLO3**: (Python, Pytorch, OpenCV, GPUs/TitanX)
 - Collaborating with [Kaixing Zhao](https://zhaokaixing.github.io/) at IRIT, l’équipe Elipse, Université de Toulouse, Human-Computer Interaction, 2019-2020; 
-<video id="video" width="360" height="360" controls="" preload="none">
+<video id="video" width="480" height="360" controls="" preload="none">
     <source src="/images/video_hand_small.avi" type="video/avi">
 </video>
 
