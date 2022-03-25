@@ -36,18 +36,16 @@ redirect_to:
 
 <font size=3>Face recognition of realistic visual images (e.g., photos) has been well studied and made significant progress in the recent decade. However, face recognition between realistic visual images/photos and caricatures is still a challenging problem. Unlike the photos, the different artistic styles of caricatures introduce extreme non-rigid distortions of caricatures. The great representational gap between the different modalities of photos and caricatures is a big challenge for photo-caricature face recognition. In this work, we propose to conduct cross-modal photo-caricature face recognition via multi-task learning, which can learn the features of different modalities with different tasks. The experimental results demonstrate the effectiveness of the proposed method for cross-modal photo-caricature face recognition.</font>
 
+![avatar](/images/DynamicMTL.mp4)
+
+   
+**<font size=5>Application Demos</font>**:
+
+- **Multi-task learning for face recognition and facial expression recognition**: (Python, Tensorflow, OpenCV, GPUs/TitanX for training, CPU for Infering/14fps)
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
 <source id="mp4" src="/images/Demo_facialexpressioinRecog.mp4" type="video/mp4">
 </video>
 
-
-![avatar](/images/Demo_facialexpressioinRecog.mp4)
-   
-**<font size=5>Application Demos</font>**:
-
-
-- **Multi-task learning for face recognition and facial expression recognition**: (Python, Tensorflow, OpenCV, GPUs/TitanX for training, CPU for Infering/14fps)
-![avatar](/images/DynamicMTL.jpg)
 
 
 
