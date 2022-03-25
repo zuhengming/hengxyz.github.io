@@ -39,6 +39,11 @@ redirect_to:
 ![avatar](/images/Fig0_Fig1.png)
    
 
+**<font size=5>Application Demos</font>**:
 
+- **Multi-task learning for face recognition and facial expression recognition**: (Python, Tensorflow, OpenCV, GPUs/TitanX for training, CPU for Infering/14fps)
+<video id="video" width="480" height="360" controls="" preload="none">
+    <source src="/images/Demo_facialexpressioinRecog.mp4" type="video/mp4">
+</video>
 
 
