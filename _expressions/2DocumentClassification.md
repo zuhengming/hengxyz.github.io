@@ -30,7 +30,7 @@ redirect_to:
 
 ![avatar](/images/EMAIL.jpg)
 
-- [Cross-Modal Deep Networks For Document Image Classification]() [ICIP2020](https://ieeexplore.ieee.org/document/9191268), [CVPRW2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf):
+- [Cross-Modal Deep Networks For Document Image Classification]() ([ICIP2020](https://ieeexplore.ieee.org/document/9191268), [CVPRW2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Bakkali_Visual_and_Textual_Deep_Feature_Fusion_for_Document_Image_Classification_CVPRW_2020_paper.pdf)):
 
 *Key words: Multi-task learning, interactive face authentification, face recognition, facial expression recognition, CNNs*
 
