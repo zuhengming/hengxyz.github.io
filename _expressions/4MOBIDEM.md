@@ -10,7 +10,7 @@ redirect_to:
 - Collabration labotories: [L3i](https://l3i.univ-larochelle.fr/), [AriadNext](https://www.ariadnext.com/), [Oodrive](https://www.oodrive.com/fr/), [Oberthur TECHNOLOGIES](https://web.archive.org/web/20121124001819/http://www.oberthur.com/)
 - with [Jean-Christophe Burie](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), [Joseph Chazalon](https://scholar.google.fr/citations?user=zu8wSDAAAAAJ&hl=en), [Muhammad Muzzamil LUQMAN](https://scholar.google.com/citations?user=ACfqR3UAAAAJ&hl=en), [Muriel Visani](https://pageperso.univ-lr.fr/mvisani/), [Ahmad Montaser Awal](https://scholar.google.fr/citations?user=lADqsksAAAAJ&hl=fr)
 
-**Reasearch methods**: The challenges of face recognition is to learn a representation being robust to the variation of face pose, gesture, illumination with  potential face occulusion in the wild scenarios. It is also  **Metric learning,  multitask learning and multimodal learning** are used to develop the face recognition and the related problems such as facial expression recognition and face detection. 
+**Reasearch methods**: The challenges of face recognition is to learn a representation being robust to the variation of face pose, gesture, occulussion and illumination in the wild scenarios. It is also required to recognize the heterogeneous faces presented in the different modalities (e.g., natural faces v.s. caricatures). **Metric learning,  multitask learning and multimodal learning** are used to develop the face recognition and the related problems such as facial expression recognition and face detection. 
 
 - [VitTransPAD: Video Transformer using Convolution and Self-attention for Face Presentation Attack Detection (ICIP2022_submission):](https://arxiv.org/pdf/2203.01562.pdf)
 
