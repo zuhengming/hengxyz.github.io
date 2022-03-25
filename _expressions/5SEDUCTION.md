@@ -17,3 +17,5 @@ redirect_to:
 *Key words: facial experssion, Action units, multi-kenerl SVMs*
 
 <font size=3>In this work, we propose a method using the fusion of the different appearance and geometry features based on a multi-kernel Support Vector Machine (SVM) for the automatic estimation of the variation of facial expression in terms of intensities of Action Units (AUs). The result of our approach benefiting from taking advantages of the different features adapting to a multi-kernel SVM is shown to outperform the conventional methods based on the mono-type feature with single kernel SVM.</font>
+
+![avatar](/images/SVM.jpg)
