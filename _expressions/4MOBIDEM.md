@@ -1,7 +1,7 @@
 ---
 title: "<font color=blue><u>MOBIDEM: MOBile IDEntity for the Masses (FUI 21) </u></font>"
 collection: expressions
-excerpt: "Realization of an electronic signature platform by telephone with face recognition based on deep learning at a high level of validity."
+excerpt: "Realization of an electronic signature platform with mobile telephone based on face recognition using deep learning at a high level of validity."
 redirect_to: 
 ---
 
