@@ -36,7 +36,8 @@ redirect_to:
 
 <font size=3>Unlike the general image classification problem in the computer vision field, text document images contain both the visual cues and the corresponding text within the image. However, how to bridge these two different modalities and leverage textual and visual features to classify text document images remains challenging.
 In this paper, we present a two-branches based cross-modal deep network that enables to capture both the textual content and the visual information. We conduct an exhaustive investigation of nowadays widely used neural networks such as ResNet, MobileNet, NASNet-Large, Bert and so on as backbone to extract image and text features respectively. Different joint feature learning approaches based on vanille concatenation, equal concatenation and superposition have been introduced to learn the common multimodal features from the language and visual cues.</font>
-![avatar](/images/cross_modal_CVPRW2020.PNG)![avatar](/images/icip2020_b_c.jpg)
+![avatar](/images/cross_modal_CVPRW2020.PNG)
+![avatar](/images/icip2020_b_c_horizontal.jpg)
 
 
 
