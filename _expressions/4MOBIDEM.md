@@ -30,14 +30,14 @@ redirect_to:
 
 ![avatar](/images/DynamicMTL.jpg)
 
-- [FaceLiveNet: End-to-End Networks Combining Face Verification With Interactive Facial Expression-based Liveness Detection (ICPR2018):](https://www.researchgate.net/profile/Zuheng-Ming/publication/325229686_FaceLiveNet_End-to-End_Face_Verification_Networks_Combining_With_Interactive_Facial_Expression-based_Liveness_Detection/links/5aff47b5aca2720ba095e75d/FaceLiveNet-End-to-End-Face-Verification-Networks-Combining-With-Interactive-Facial-Expression-based-Liveness-Detection.pdf)
+- [Cross-modal photo-caricature face recognition based on dynamic multi-task learning :]() [[IJDAR]](https://link.springer.com/article/10.1007/s10032-021-00364-6)[[code]](https://github.com/hengxyz/cari-visual-recognition-via-multitask-learning)
 
-*Key words: Multi-task learning, interactive face authentification, face recognition, facial expression recognition, CNNs*
+*Key words: Cross-modal face recognition, caricature face recognition, dynamic multi-task learning, CNNs*
 
-<font size=3>Existing face verification architectures seldom integrate any liveness detection or keep such stage isolated from face verification as if it was irrelevant. This may potentially result in the system being exposed to spoof attacks between the two stages. This work introduces FaceLiveNet, a holistic endto-end deep networks which can perform face verification and liveness detection simultaneously. An interactive scheme for facial expression recognition is proposed to perform liveness detection, providing better generalization capacity and higher security level. The proposed framework is low-cost as it relies on commodity hardware instead of costly sensors, and lightweight with much fewer parameters comparing to the other popular deep networks such as VGG16 and FaceNet. Experimental results on the benchmarks LFW, YTF, CK+, OuluCASIA, SFEW, FER2013 demonstrate that the proposed FaceLiveNet can achieve state-of art performance or better for both face verification and facial expression recognition. We also introduce a new protocol to evaluate the global performance for face authentication with the fusion of face verification and interactive facial expression-based liveness detection.</font>
+<font size=3>Face recognition of realistic visual images (e.g., photos) has been well studied and made significant progress in the recent decade. However, face recognition between realistic visual images/photos and caricatures is still a challenging problem. Unlike the photos, the different artistic styles of caricatures introduce extreme non-rigid distortions of caricatures. The great representational gap between the different modalities of photos and caricatures is a big challenge for photo-caricature face recognition. In this work, we propose to conduct cross-modal photo-caricature face recognition via multi-task learning, which can learn the features of different modalities with different tasks. The experimental results demonstrate the effectiveness of the proposed method for cross-modal photo-caricature face recognition.</font>
 
 
-![avatar](/images/Fig1.jpg)
+![avatar](/images/Fig0_Fig1.png)
    
 
 
